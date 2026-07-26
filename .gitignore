@@ -1,0 +1,8 @@
+# Node / JS
+node_modules/
+dist/
+.vite/
+
+# System / Jupyter
+.ipynb_checkpoints/
+.DS_Store
